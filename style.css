@@ -1,0 +1,13 @@
+#carousel-exemple {
+    height: 50vh;
+    overflow: hidden;
+}
+
+.img-card {
+    width: 100%;
+    
+}
+
+.card {
+    overflow: hidden;
+}
